@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <filter id="gntagb90ga">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.050980 0 0 0 0 0.215686 0 0 0 0 0.313725 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g filter="url(#gntagb90ga)" transform="translate(-79 -67)">
+            <g>
+                <path fill="#3EBAD3" d="M14.96 3.52h1.76V.88h-1.76v2.64zm-10.56 0h1.76V.88H4.4v2.64zm16.28-1.76H17.6V.44c0-.243-.197-.44-.44-.44h-2.64c-.242 0-.44.197-.44.44v1.32H7.04V.44C7.04.197 6.843 0 6.6 0H3.96c-.242 0-.44.197-.44.44v1.32H.44c-.242 0-.44.197-.44.44v3.96h21.12V2.2c0-.243-.197-.44-.44-.44zM21.12 7.5v13.175c0 .235-.197.425-.44.425H.44c-.242 0-.44-.19-.44-.425V7.5h21.12zM6 15.189H3.5v2.421H6V15.19zm6 0H9.5v2.421H12V15.19zm6 0h-2.5v2.421H18V15.19zM6 10.406H3.5v2.422H6v-2.422zm6 0H9.5v2.422H12v-2.422zm6 0h-2.5v2.422H18v-2.422z" transform="translate(79 67)"/>
+            </g>
+        </g>
+    </g>
+</svg>

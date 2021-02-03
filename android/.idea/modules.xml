@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrustnetMobile.iml" filepath="$PROJECT_DIR$/.idea/modules/TrustnetMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TrustnetMobile.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TrustnetMobile.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1860701476/TrustnetMobile.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1860701476/TrustnetMobile.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/788822067/TrustnetMobile.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/788822067/TrustnetMobile.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2028769801/TrustnetMobile.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/2028769801/TrustnetMobile.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1499836452/TrustnetMobile.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1499836452/TrustnetMobile.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-652045580/TrustnetMobile.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-652045580/TrustnetMobile.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1661573807/TrustnetMobile.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1661573807/TrustnetMobile.react-native-svg.iml" />
+    </modules>
+  </component>
+</project>
